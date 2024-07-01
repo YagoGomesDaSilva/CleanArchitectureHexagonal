@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GOD Programation\\Linguagens de Programa\u00E7\u00E3o\\C#\\CleanArchitectureHexagonal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5D5467-0CF0-4CB5-B0BA-FEA946EFA3EC}|Core\\Core.csproj|d:\\god programation\\linguagens de programa\u00E7\u00E3o\\c#\\cleanarchitecturehexagonal\\core\\ports\\input\\iuserinputhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF5D5467-0CF0-4CB5-B0BA-FEA946EFA3EC}|Core\\Core.csproj|solutionrelative:core\\ports\\input\\iuserinputhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5D5467-0CF0-4CB5-B0BA-FEA946EFA3EC}|Core\\Core.csproj|d:\\god programation\\linguagens de programa\u00E7\u00E3o\\c#\\cleanarchitecturehexagonal\\core\\ports\\output\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF5D5467-0CF0-4CB5-B0BA-FEA946EFA3EC}|Core\\Core.csproj|solutionrelative:core\\ports\\output\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5D5467-0CF0-4CB5-B0BA-FEA946EFA3EC}|Core\\Core.csproj|d:\\god programation\\linguagens de programa\u00E7\u00E3o\\c#\\cleanarchitecturehexagonal\\core\\ports\\output\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF5D5467-0CF0-4CB5-B0BA-FEA946EFA3EC}|Core\\Core.csproj|solutionrelative:core\\ports\\output\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4C7C420-EB56-42B2-8302-85FCB0845FBD}|Infrastructure\\Infrastructure.csproj|d:\\god programation\\linguagens de programa\u00E7\u00E3o\\c#\\cleanarchitecturehexagonal\\infrastructure\\database\\context\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4C7C420-EB56-42B2-8302-85FCB0845FBD}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\database\\context\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4C7C420-EB56-42B2-8302-85FCB0845FBD}|Infrastructure\\Infrastructure.csproj|d:\\god programation\\linguagens de programa\u00E7\u00E3o\\c#\\cleanarchitecturehexagonal\\infrastructure\\database\\configuration\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4C7C420-EB56-42B2-8302-85FCB0845FBD}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\database\\configuration\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5D5467-0CF0-4CB5-B0BA-FEA946EFA3EC}|Core\\Core.csproj|d:\\god programation\\linguagens de programa\u00E7\u00E3o\\c#\\cleanarchitecturehexagonal\\core\\domain\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF5D5467-0CF0-4CB5-B0BA-FEA946EFA3EC}|Core\\Core.csproj|solutionrelative:core\\domain\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5D5467-0CF0-4CB5-B0BA-FEA946EFA3EC}|Core\\Core.csproj|d:\\god programation\\linguagens de programa\u00E7\u00E3o\\c#\\cleanarchitecturehexagonal\\core\\domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF5D5467-0CF0-4CB5-B0BA-FEA946EFA3EC}|Core\\Core.csproj|solutionrelative:core\\domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "D:\\GOD Programation\\Linguagens de Programa\u00E7\u00E3o\\C#\\CleanArchitectureHexagonal\\Core\\Ports\\Output\\IRepository.cs",
+              "RelativeDocumentMoniker": "Core\\Ports\\Output\\IRepository.cs",
+              "ToolTip": "D:\\GOD Programation\\Linguagens de Programa\u00E7\u00E3o\\C#\\CleanArchitectureHexagonal\\Core\\Ports\\Output\\IRepository.cs",
+              "RelativeToolTip": "Core\\Ports\\Output\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T01:06:29.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "D:\\GOD Programation\\Linguagens de Programa\u00E7\u00E3o\\C#\\CleanArchitectureHexagonal\\Core\\Ports\\Output\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Core\\Ports\\Output\\IUnitOfWork.cs",
+              "ToolTip": "D:\\GOD Programation\\Linguagens de Programa\u00E7\u00E3o\\C#\\CleanArchitectureHexagonal\\Core\\Ports\\Output\\IUnitOfWork.cs",
+              "RelativeToolTip": "Core\\Ports\\Output\\IUnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T01:06:20.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IUserInputHandler.cs",
+              "DocumentMoniker": "D:\\GOD Programation\\Linguagens de Programa\u00E7\u00E3o\\C#\\CleanArchitectureHexagonal\\Core\\Ports\\Input\\IUserInputHandler.cs",
+              "RelativeDocumentMoniker": "Core\\Ports\\Input\\IUserInputHandler.cs",
+              "ToolTip": "D:\\GOD Programation\\Linguagens de Programa\u00E7\u00E3o\\C#\\CleanArchitectureHexagonal\\Core\\Ports\\Input\\IUserInputHandler.cs",
+              "RelativeToolTip": "Core\\Ports\\Input\\IUserInputHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T01:06:12.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "D:\\GOD Programation\\Linguagens de Programa\u00E7\u00E3o\\C#\\CleanArchitectureHexagonal\\Core\\Domain\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Core\\Domain\\Entities\\BaseEntity.cs",
+              "ToolTip": "D:\\GOD Programation\\Linguagens de Programa\u00E7\u00E3o\\C#\\CleanArchitectureHexagonal\\Core\\Domain\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "Core\\Domain\\Entities\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T00:52:52.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\GOD Programation\\Linguagens de Programa\u00E7\u00E3o\\C#\\CleanArchitectureHexagonal\\Core\\Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Core\\Domain\\Entities\\User.cs",
+              "ToolTip": "D:\\GOD Programation\\Linguagens de Programa\u00E7\u00E3o\\C#\\CleanArchitectureHexagonal\\Core\\Domain\\Entities\\User.cs",
+              "RelativeToolTip": "Core\\Domain\\Entities\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T00:52:44.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserConfiguration.cs",
+              "DocumentMoniker": "D:\\GOD Programation\\Linguagens de Programa\u00E7\u00E3o\\C#\\CleanArchitectureHexagonal\\Infrastructure\\Database\\Configuration\\UserConfiguration.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Database\\Configuration\\UserConfiguration.cs",
+              "ToolTip": "D:\\GOD Programation\\Linguagens de Programa\u00E7\u00E3o\\C#\\CleanArchitectureHexagonal\\Infrastructure\\Database\\Configuration\\UserConfiguration.cs",
+              "RelativeToolTip": "Infrastructure\\Database\\Configuration\\UserConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T00:52:09.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "D:\\GOD Programation\\Linguagens de Programa\u00E7\u00E3o\\C#\\CleanArchitectureHexagonal\\Infrastructure\\Database\\Context\\DataContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Database\\Context\\DataContext.cs",
+              "ToolTip": "D:\\GOD Programation\\Linguagens de Programa\u00E7\u00E3o\\C#\\CleanArchitectureHexagonal\\Infrastructure\\Database\\Context\\DataContext.cs",
+              "RelativeToolTip": "Infrastructure\\Database\\Context\\DataContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T00:49:22.719Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
